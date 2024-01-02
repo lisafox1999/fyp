@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menu"
+        android:alphabeticShortcut="r"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/blog"
+        android:icon="@drawable/elance"
+        android:iconTint="@color/elance"
+        android:title="@string/blog" />
+    <item
+        android:id="@+id/update_profile"
+        android:title="@string/update_profile" />
+    <item
+        android:id="@+id/change_email_address"
+        android:title="@string/change_email_address" />
+    <item
+        android:id="@+id/change_password"
+        android:title="@string/change_password" />
+    <item
+        android:id="@+id/delete_profile"
+        android:title="@string/delete_profile" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout" />
+</menu>

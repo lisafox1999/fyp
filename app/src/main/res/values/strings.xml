@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">freelanceapp</string>
+    <string name="button">Freelancer</string>
+    <string name="button1">Customer</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="email_address1">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="freelancer">Freelancer</string>
+    <string name="customer">Customer</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address2">Email Address</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="create_profile1">Create Profile</string>
+    <string name="create_profile2">Create Profile</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="create_a_customer_account">Create a Customer Account</string>
+    <string name="loading1">Loading</string>
+    <string name="todo1">TODO</string>
+    <string name="loading2">Loading</string>
+    <string name="loading3">Loading</string>
+    <string name="loading4">Loading</string>
+    <string name="loading5">Loading</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="loading6">loading</string>
+    <string name="loading7">loading</string>
+    <string name="loading15">loading</string>
+    <string name="loading8">loading</string>
+    <string name="loading9">loading</string>
+    <string name="loading10">loading</string>
+    <string name="loading11">loading</string>
+    <string name="loading12">loading</string>
+    <string name="loading13">loading</string>
+    <string name="loading14">loading</string>
+    <string name="date">TODO</string>
+    <string name="email_address3">email address</string>
+    <string name="create_profile">create profile</string>
+    <string name="Register">Register</string>
+    <string name="create_a_freelancer_account">Create a Freelancer Account</string>
+    <string name="email_address">email</string>
+    <string name="email_address5">email address</string>
+    <string name="register_here">Register Here</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="email_address6">email_address</string>
+    <string name="email_address7">Email Address</string>
+    <string name="menu">menu</string>
+    <string name="blog">blog</string>
+    <string name="update_profile">update_profile</string>
+    <string name="change_email_address">change_email_address</string>
+    <string name="change_password">change_password</string>
+    <string name="delete_profile">delete_profile</string>
+    <string name="back_to_profile">Back To Profile</string>
+    <string name="payments">PAYMENTS</string>
+    <string name="logoutdashboard">LOGOUT</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="blogdashboard">BLOG</string>
+    <string name="settings">SETTINGS</string>
+    <string name="browse">BROWSE</string>
+    <string name="paymentimage">TODO</string>
+    <string name="browseimage">TODO</string>
+    <string name="settingsimage">TODO</string>
+    <string name="blogimage">TODO</string>
+    <string name="profileimage">TODO</string>
+    <string name="go_to_dashboard">Go To Dashboard</string>
+    <string name="title_activity_freelancer_categories">FreelancerCategoriesActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="music">Music</string>
+    <string name="developer">Developer</string>
+    <string name="literature">Literature</string>
+    <string name="ecommerce">Ecommerce</string>
+    <string name="designer">Designer</string>
+    <string name="please_select_freelance_category">Please Select Freelance Category</string>
+    <string name="digital_media">Digital Media</string>
+    <string name="photography_videography"><![CDATA[Photography & Videography]]></string>
+    <string name="art">Art</string>
+    <string name="culinary_arts">Culinary Arts</string>
+    <string name="languages">Languages</string>
+    <string name="freelanceapp">dropDownMenuExample</string>
+    <string name="enter_rate_per_hour">Enter Rate Per Hour</string>
+    <string name="categoriesfreelance">Categories</string>
+    <string name="become_a_freelancer">Become a Freelancer</string>
+    <string-array name="categories">
+        <item>Music</item>
+        <item>Developer</item>
+        <item>Literature</item>
+        <item>Ecommerce</item>
+        <item>Designer</item>
+        <item>Digital Media</item>
+        <item>Photography_Videography</item>
+        <item>Art</item>
+        <item>Culinary_arts</item>
+        <item>Languages</item>
+    </string-array>
+
+</resources>
